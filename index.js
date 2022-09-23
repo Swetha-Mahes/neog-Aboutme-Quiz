@@ -7,8 +7,8 @@ var highScore = [
     score: 10
   },
   {
-    name: "sophi",
-    score: 9
+    name: "gayathri",
+    score: 10
   }
 ]
 
